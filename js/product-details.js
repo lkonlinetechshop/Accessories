@@ -123,6 +123,31 @@ description:
 },
 
 
+{
+id:6,
+
+name:"Smart String Hopper Making machine (800pcs per hour)Without Compressure",
+
+category:"Machineries",
+
+image:"images/smartatringhopper.jpg",
+
+oldPrice:102900,
+
+price:98000,
+
+discount:"5%",
+
+rating:"★★★★★",
+
+stock:"In Stock",
+
+description:
+"A durable and easy-to-operate machine designed for efficient and consistent production applications. Featuring a stainless-steel working area, adjustable controls, and compact construction, it is ideal for food processing applications, and small-scale manufacturing."
+
+},
+
+
 ];
 
 
