@@ -96,7 +96,31 @@ stock:"In Stock",
 description:
 "The Arduino UNO is the most widely used and documented development board in the Arduino ecosystem. Based on the ATmega328P microcontroller, it offers 14 digital I/O pins, 6 analog inputs, and USB connectivity for programming and serial communication. Ideal for beginners and professionals alike."
 
-}
+},
+    
+{
+id:5,
+
+name:"Arduino UNO Normal Development Board with USB Cable",
+
+category:"Electronics",
+
+image:"images/unonormal.jpg",
+
+oldPrice:1275,
+
+price:1250,
+
+discount:"2%",
+
+rating:"★★★★★",
+
+stock:"In Stock",
+
+description:
+"Arduino UNO R3 SMD is the open source Embedded Development board launched by Arduino based on Atmega328 SMD Package Microcontroller. Because Atmel is moving more and more of their production capacity to surface mount ICs, the DIP packaged ATmega is becoming more and more difficult to get. To keep up with demand, we now offer the Arduino Uno R3 with an SMD ATmega. The board is identical to the PTH version of the Uno, but you won't be able to remove the ATmega without some hot-air. This change shouldn't affect most users."
+
+},
 
 
 ];
