@@ -190,7 +190,7 @@ window.open(url, "_blank");
 
 
 // ======================================== // WAIT 5 SECONDS // ======================================== 
-    setTimeout(function () { 
+    setTimeout(() { 
         // ==================================== // BANK DETAILS MESSAGE // ==================================== 
         let bankMessage = ""; bankMessage += "🏦 *TECH STORE BANK PAYMENT DETAILS*\n\n"; bankMessage += "Please make the payment using the details below.\n\n"; 
         // ------------------------------------ // BANK DETAILS // ------------------------------------ 
@@ -209,5 +209,5 @@ setTimeout(() => {
 
     window.location.href = "index.html";
 
-}, 1000);
+}, 4000);
 }
