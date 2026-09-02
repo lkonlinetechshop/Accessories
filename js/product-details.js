@@ -71,7 +71,7 @@ rating:"★★★★☆",
 stock:"In Stock",
 
 description:
-"Mechanical RGB gaming keyboard with anti-ghosting keys and durable switches."
+"Support for 4-axis linkage, you can connect four stepper motor drives or servo drives.Maximum step-pulse frequency is 100KHz, which is suitable for the servo or stepping motor.Support automatic probe tool.Support emergency input.Support for limit switch.Support for connecting electronic hand wheel.Need use external 24V DC power supply to isolate USB and external port, and to make the system more stable.Have 0-10V output port, you can use MACH3 software to control the spindle motor speed.4 general-purpose inputs, you can connect the limit switch, estop switch, probe switch, back to zero and device.4 general-purpose isolated relay drive output interface, can drive four relays for controlling the spindle starts, forward rotating and reverse rotating, pumps and device.Status LED, indicate connection status on the board."
 
 },
 
@@ -96,7 +96,7 @@ rating:"★★★★★",
 stock:"In Stock",
 
 description:
-"High precision gaming mouse with adjustable DPI and RGB lighting."
+"A11E is the English-language version and uses the same operational workflow as the legacy 0501."
 
 },
 
