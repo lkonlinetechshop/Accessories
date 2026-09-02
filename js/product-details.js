@@ -130,11 +130,11 @@ name:"Smart String Hopper Making machine (800pcs per hour)Without Compressure",
 
 category:"Machineries",
 
-image:"images/smartatringhopper.jpg",
+image:"images/smartstringhopper.jpg",
 
-oldPrice:102900,
+oldPrice:77700,
 
-price:98000,
+price:74000,
 
 discount:"5%",
 
