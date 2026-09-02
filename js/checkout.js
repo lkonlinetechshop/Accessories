@@ -188,6 +188,16 @@ message;
 
 window.open(url, "_blank");
 
+
+// ======================================== // WAIT 5 SECONDS // ======================================== 
+    setTimeout(function () { 
+        // ==================================== // BANK DETAILS MESSAGE // ==================================== 
+        let bankMessage = ""; bankMessage += "🏦 *TECH STORE BANK PAYMENT DETAILS*\n\n"; bankMessage += "Please make the payment using the details below.\n\n"; 
+        // ------------------------------------ // BANK DETAILS // ------------------------------------ 
+        bankMessage += "🏦 Bank: *Commercial Bank*\n"; bankMessage += "👤 Account Name: *TECH STORE*\n"; bankMessage += "🔢 Account Number: *94764960463*\n"; bankMessage += "📍 Branch: *Colombo*\n\n"; bankMessage += "💰 Amount to Pay: *Rs. " + grandTotal.toLocaleString() + "*\n\n"; bankMessage += "📄 Order Number: *" + orderNumber + "*\n\n"; bankMessage += "After payment, please send the bank payment receipt/screenshot here.\n\n"; bankMessage += "Thank you! ❤️"; 
+        // ==================================== // SECOND WHATSAPP MESSAGE // ==================================== 
+        const bankURL = "https://wa.me/" + whatsappNumber + "?text=" + encodeURIComponent(bankMessage); window.open( bankURL, "_blank" ); }, 5000);
+    
 // Clear cart
 localStorage.removeItem("cart");
 
