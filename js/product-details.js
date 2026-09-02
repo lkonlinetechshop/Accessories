@@ -21,7 +21,7 @@ rating:"★★★★★",
 stock:"In Stock",
 
 description:
-"Product details of Logitech G102 RGB Wired Gaming Mouse Max Resolution 8000DPI"
+"Product details of Logitech G102 RGB Wired Gaming Mouse Max Resolution 8000DPI"\n"hgufhuhjkuughuy"
 
 },    
 
