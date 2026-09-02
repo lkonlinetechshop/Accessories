@@ -1,5 +1,31 @@
 const products = [
 
+
+{
+id:7,
+
+name:"Logitech G102 USB Wired Gaming Mouse 8000 DPI For PC/Mac Computer and Laptop",
+
+category:"Pc",
+
+image:"images/g102.jpg",
+
+oldPrice:2480,
+
+price:1959,
+
+discount:"21%",
+
+rating:"★★★★★",
+
+stock:"In Stock",
+
+description:
+"Product details of Logitech G102 RGB Wired Gaming Mouse Max Resolution 8000DPI"\n"Improve accuracy"\n"Optical Sensor Kit"\n"Enjoy the endless precision experience to unlock your potential"\n"The 200-8000 DPI sensor provides excellent precision, tracking speed, and consistency,"\n"allowing for better control regardless of play style."\n" Excellent sensor consistency and accuracy means you can train muscles based on sensation."
+
+},    
+
+    
 {
 id:1,
 
