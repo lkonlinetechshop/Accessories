@@ -105,7 +105,21 @@ header{
     font-weight:700;
 
 }
+.logo a{
 
+    color:white;
+
+    text-decoration:none;
+
+    padding:10px 16px;
+
+    border-radius:8px;
+
+    transition:.3s;
+
+    font-weight:500;
+
+}
 /*=========================================
 Navigation
 =========================================*/
