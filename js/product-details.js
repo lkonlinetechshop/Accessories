@@ -72,14 +72,14 @@ stock:"In Stock",
 description:
 "High precision gaming mouse with adjustable DPI and RGB lighting."
 
-}
+},
 
-    {
+{
 id:4,
 
-name:"Cloned RichAuto A11 3 Axis 0501 DSP CNC Controller",
+name:"Arduino UNO Original Development Board with USB Cable",
 
-category:"CNC",
+category:"Electronics",
 
 image:"images/unooriginal.jpg",
 
@@ -94,7 +94,7 @@ rating:"★★★★★",
 stock:"In Stock",
 
 description:
-"High precision gaming mouse with adjustable DPI and RGB lighting."
+"The Arduino UNO is the most widely used and documented development board in the Arduino ecosystem. Based on the ATmega328P microcontroller, it offers 14 digital I/O pins, 6 analog inputs, and USB connectivity for programming and serial communication. Ideal for beginners and professionals alike."
 
 }
 
