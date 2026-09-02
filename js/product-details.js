@@ -21,7 +21,7 @@ rating:"★★★★★",
 stock:"In Stock",
 
 description:
-"Product details of Logitech G102 RGB Wired Gaming Mouse Max Resolution 8000DPI"\n"hgufhuhjkuughuy"
+"Make the most of your game time with G102 gaming mouse, featuring LIGHTSYNC technology, a gaming-grade sensor and a classic 6-button design. Light up your game and your desk."
 
 },    
 
