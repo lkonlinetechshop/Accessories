@@ -5,7 +5,7 @@ id:1,
 
 name:"RichAuto A11E 3 Axis CNC Controller",
 
-category:"CNC Controller",
+category:"CNC parts",
 
 image:"images/RichAuto_A11E.jpg",
 
@@ -30,7 +30,7 @@ id:3,
 
 name:"4 Axis CNC Breakout Board For Mach3",
 
-category:"CNC Controller",
+category:"CNC parts",
 
 image:"images/mach3.jpg",
 
@@ -55,7 +55,7 @@ id:2,
 
 name:"Cloned RichAuto A11 3 Axis 0501 DSP CNC Controller",
 
-category:"CNC",
+category:"CNC parts",
 
 image:"images/cloned_richauto_a11.jpg",
 
@@ -64,6 +64,30 @@ oldPrice:67200,
 price:60000,
 
 discount:"12%",
+
+rating:"★★★★★",
+
+stock:"In Stock",
+
+description:
+"High precision gaming mouse with adjustable DPI and RGB lighting."
+
+}
+
+    {
+id:4,
+
+name:"Cloned RichAuto A11 3 Axis 0501 DSP CNC Controller",
+
+category:"CNC",
+
+image:"images/unooriginal.jpg",
+
+oldPrice:2448,
+
+price:2400,
+
+discount:"2%",
 
 rating:"★★★★★",
 
