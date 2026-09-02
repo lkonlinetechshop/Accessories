@@ -46,7 +46,7 @@ rating:"★★★★★",
 stock:"In Stock",
 
 description:
-"High performance gaming laptop with powerful processor, dedicated graphics card and fast SSD storage."
+"For RichAuto A11 CNC Controller A11S A11E A11C 3 Axis Motion Controller Remote for CNC Engraving Cutting English Suitable for 3 axis."
 
 },
 
