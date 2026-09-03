@@ -1,6 +1,74 @@
 const products = [
 
+{
+id:10,
 
+name:"Windows 7 Activation Key",
+
+category:"Pc",
+
+image:"images/win7.jpg",
+
+oldPrice:1200,
+
+price:984,
+
+discount:"18%",
+
+rating:"★★★★★",
+
+stock:"In Stock",
+
+description: 
+    "Genuine Windows 7 Pro Key: A new, 100% genuine key for one PC. Permanent Activation: Provides a permanent, full activation for your current installation of Windows 7. ! IMPORTANT - PLEASE READ: This key is for the current installation only and cannot be reused after formatting Unlocks All Pro Features: Get full access to advanced security, BitLocker, Remote Desktop, and more. Global Key: Can be used and activated anywhere in the world."
+},
+    
+{
+id:9,
+
+name:"Windows 11 Activation Key",
+
+category:"Pc",
+
+image:"images/win11.jpg",
+
+oldPrice:1200,
+
+price:984,
+
+discount:"18%",
+
+rating:"★★★★★",
+
+stock:"In Stock",
+
+description: 
+    "Genuine Windows 11 Pro Key: A new, 100% genuine key for one PC. Permanent Activation: Provides a permanent, full activation for your current installation of Windows 11. ! IMPORTANT - PLEASE READ: This key is for the current installation only and cannot be reused after formatting Unlocks All Pro Features: Get full access to advanced security, BitLocker, Remote Desktop, and more. Global Key: Can be used and activated anywhere in the world."
+},
+    
+{
+id:8,
+
+name:"Windows 10 Activation Key",
+
+category:"Pc",
+
+image:"images/win10.jpg",
+
+oldPrice:1200,
+
+price:984,
+
+discount:"18%",
+
+rating:"★★★★★",
+
+stock:"In Stock",
+
+description: 
+    "Genuine Windows 10 Pro Key: A new, 100% genuine key for one PC. Permanent Activation: Provides a permanent, full activation for your current installation of Windows 10. ! IMPORTANT - PLEASE READ: This key is for the current installation only and cannot be reused after formatting Unlocks All Pro Features: Get full access to advanced security, BitLocker, Remote Desktop, and more. Global Key: Can be used and activated anywhere in the world."
+},
+    
 {
 id:7,
 
